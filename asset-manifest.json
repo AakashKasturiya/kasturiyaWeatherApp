@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kasturiyaWeatherApp/static/css/main.98306ed6.chunk.css",
+    "main.js": "/kasturiyaWeatherApp/static/js/main.644a6100.chunk.js",
+    "main.js.map": "/kasturiyaWeatherApp/static/js/main.644a6100.chunk.js.map",
+    "runtime-main.js": "/kasturiyaWeatherApp/static/js/runtime-main.fbe9c93d.js",
+    "runtime-main.js.map": "/kasturiyaWeatherApp/static/js/runtime-main.fbe9c93d.js.map",
+    "static/js/2.830d6f53.chunk.js": "/kasturiyaWeatherApp/static/js/2.830d6f53.chunk.js",
+    "static/js/2.830d6f53.chunk.js.map": "/kasturiyaWeatherApp/static/js/2.830d6f53.chunk.js.map",
+    "index.html": "/kasturiyaWeatherApp/index.html",
+    "static/css/main.98306ed6.chunk.css.map": "/kasturiyaWeatherApp/static/css/main.98306ed6.chunk.css.map",
+    "static/js/2.830d6f53.chunk.js.LICENSE.txt": "/kasturiyaWeatherApp/static/js/2.830d6f53.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/kasturiyaWeatherApp/static/media/2.0dfef191.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbe9c93d.js",
+    "static/js/2.830d6f53.chunk.js",
+    "static/css/main.98306ed6.chunk.css",
+    "static/js/main.644a6100.chunk.js"
+  ]
+}
